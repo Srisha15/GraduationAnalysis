@@ -28,17 +28,26 @@ Clone the repository:
  
 git clone https://github.com/Srisha15/GraduationAnalysis.git
 
+
+
+
 Navigate to the project directory:
 
 ```bash  
 
 cd GraduationAnalysis
 
+
+
+
 Install required packages:
 
 ```bash  
   
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+
 
 Open the Jupyter Notebook:
 
