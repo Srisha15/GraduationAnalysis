@@ -13,36 +13,36 @@ This project analyzes a dataset containing student information to determine the 
 
 ## 🛠️ Technologies Used
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Scikit-learn
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Scikit-learn  
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/Srisha15/GraduationAnalysis.git
+```bash  
+ 
+git clone https://github.com/Srisha15/GraduationAnalysis.git
 
-   
+Navigate to the project directory:
 
-2. **Navigate to the project directory:**
+```bash  
 
-
-```bash
 cd GraduationAnalysis
 
+Install required packages:
 
-3. **Install required packages:**
-
-```bash
+```bash  
+  
 pip install pandas numpy matplotlib seaborn scikit-learn
 
+Open the Jupyter Notebook:
 
-4. **Open the Jupyter Notebook:**
-
-```bash
+```bash  
+ 
 jupyter notebook logistics_regression.ipynb
+
