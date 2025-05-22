@@ -32,17 +32,17 @@ This project analyzes a dataset containing student information to determine the 
 2. **Navigate to the project directory:**
 
 
-'''bash
+```bash
 cd GraduationAnalysis
 
 
 3. **Install required packages:**
 
-'''bash
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 4. **Open the Jupyter Notebook:**
 
-'''bash
+```bash
 jupyter notebook logistics_regression.ipynb
